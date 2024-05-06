@@ -1,0 +1,12 @@
+.idea
+.pytest_cache
+__pycache__
+venv
+backup
+txt
+tmp
+telegram.py
+profile_contacts.zpprofile
+client_secret.json
+credentials.json
+token.pickle
